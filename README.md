@@ -1,1 +1,1 @@
-These are the assignments I did as part of the Patika.dev Veri Bilimi training.
+These are the assignments I did as part of the Patika.dev Data Science training.
