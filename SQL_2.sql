@@ -1,4 +1,4 @@
-https://app.patika.dev/esradasdan
+--https://app.patika.dev/esradasdan
 
 Patika-SQL_2
 
