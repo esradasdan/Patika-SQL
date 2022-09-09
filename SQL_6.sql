@@ -1,6 +1,6 @@
 --https://app.patika.dev/esradasdan
 
-Patika-SQL_4
+Patika-SQL_6
 
 
 --1) film tablosunda bulunan rental_rate sütunundaki değerlerin ortalaması nedir?
